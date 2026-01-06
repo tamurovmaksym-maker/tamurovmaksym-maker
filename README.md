@@ -1,16 +1,12 @@
-## Hi there 👋
+Hey, I'm Maksym Tamurov! 👋
 
-<!--
-**tamurovmaksym-maker/tamurovmaksym-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+- 🎓 I'm studying the "Programming for Data Science" course.
+- 🐍 I'm studying Python and data analysis tools.
+- 🎯 My goal: to develop a mini-project based on AI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Python (in the process of learning)
+- Google Colab
+- Working with data
+- Product Design
